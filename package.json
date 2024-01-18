@@ -20,5 +20,10 @@
   "bugs": {
     "url": "https://github.com/sumitYadav375/custom-skeleton-loader/issues"
   },
-  "homepage": "https://github.com/sumitYadav375/custom-skeleton-loader#readme"
+  "homepage": "https://github.com/sumitYadav375/custom-skeleton-loader#readme",
+  "devDependencies": {
+    "@babel/core": "^7.23.7",
+    "@babel/preset-env": "^7.23.8",
+    "@babel/preset-react": "^7.23.3"
+  }
 }
