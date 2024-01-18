@@ -2,6 +2,7 @@
 
 import './css/style.css'
 
+
 const CustomLoader = ({ height, width, pt, pr, pb, pl, mt, mr, mb, ml }) => {
     const customstyled = {
       width: width,
@@ -18,7 +19,7 @@ const CustomLoader = ({ height, width, pt, pr, pb, pl, mt, mr, mb, ml }) => {
       borderRadius: '5px',
     };
   
-    return <div className="custom-loader-css" style={customstyled}></div>;
+    return (<div className="custom-loader-css" style={customstyled}></div>);
   };
   
   export default CustomLoader;
