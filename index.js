@@ -1,2 +1,2 @@
-// index.js
-export { default as CustomLoader } from './src/CustomLoader';
+import CustomLoader from "./src/CustomLoader";
+export default CustomLoader
