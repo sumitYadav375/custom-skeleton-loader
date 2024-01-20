@@ -2,7 +2,7 @@
   "name": "custom-skeleton-loader",
   "version": "1.0.4",
   "description": "custom skeleton-loader",
-  "main": "./src/index.jsx",
+  "main": "/src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -22,8 +22,12 @@
   },
   "homepage": "https://github.com/sumitYadav375/custom-skeleton-loader#readme",
   "devDependencies": {
+    "react": "^16.8.0",
     "@babel/core": "^7.23.7",
     "@babel/preset-env": "^7.23.8",
     "@babel/preset-react": "^7.23.3"
+  },
+  "peerDependencies": {
+    "react": "^16.8.0"
   }
 }
