@@ -1,0 +1,23 @@
+{
+  "name": "custom-skeleton-loader",
+  "version": "1.0.0",
+  "description": "custom skeleton loader",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sumitYadav375/custom-skeleton-loader.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sumitYadav375/custom-skeleton-loader/issues"
+  },
+  "homepage": "https://github.com/sumitYadav375/custom-skeleton-loader#readme",
+  "dependencies": {
+    "react": "^18.2.0"
+  }
+}
